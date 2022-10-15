@@ -1,1 +1,2 @@
 now we are learning git push
+and also gitpull gitinit gitclone
